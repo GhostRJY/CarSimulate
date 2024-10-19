@@ -1,5 +1,5 @@
 #include <iostream>
-#include "AutoSim.h"
+#include "Auto.h"
 
 int main()
 {
